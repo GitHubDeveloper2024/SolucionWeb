@@ -1,0 +1,8 @@
+C:\PROGRAMACION\PROYECTOS\SlnWeb\AppConsole\bin\Debug\AppConsole.exe.config
+C:\PROGRAMACION\PROYECTOS\SlnWeb\AppConsole\bin\Debug\AppConsole.exe
+C:\PROGRAMACION\PROYECTOS\SlnWeb\AppConsole\bin\Debug\AppConsole.pdb
+C:\PROGRAMACION\PROYECTOS\SlnWeb\AppConsole\obj\Debug\AppConsole.csproj.AssemblyReference.cache
+C:\PROGRAMACION\PROYECTOS\SlnWeb\AppConsole\obj\Debug\AppConsole.csproj.SuggestedBindingRedirects.cache
+C:\PROGRAMACION\PROYECTOS\SlnWeb\AppConsole\obj\Debug\AppConsole.csproj.CoreCompileInputs.cache
+C:\PROGRAMACION\PROYECTOS\SlnWeb\AppConsole\obj\Debug\AppConsole.exe
+C:\PROGRAMACION\PROYECTOS\SlnWeb\AppConsole\obj\Debug\AppConsole.pdb
